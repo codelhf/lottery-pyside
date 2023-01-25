@@ -1,0 +1,1 @@
+import{D as r}from"./index.e7cb72d6.js";function s(e){return r({url:"/server",method:"GET",params:e})}function o(e){return r({url:"/server/delete/"+e,method:"POST"})}function u(){return r({url:"/server/groups",method:"GET"})}export{s as a,o as d,u as f};
